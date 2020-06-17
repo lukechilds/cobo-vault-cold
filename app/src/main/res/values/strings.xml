@@ -82,7 +82,7 @@
     <string-array name="watch_wallet_list">
         <item>Cobo Vault App</item>
         <item>Electrum</item>
-        <item>Wasabi Wallet</item>
+        <item>Wasabi Wallet / BTC-Pay</item>
         <item>BlueWallet</item>
         <item>Generic Wallet</item>
     </string-array>
@@ -101,7 +101,7 @@
         <item>Native SegWit（P2WPKH）</item>
     </string-array>
 
-    <string-array name="address_format_subtitle" translatable="false">
+    <string-array name="address_format_subtitle">
         <item><![CDATA[eg. <font color="#00cdc3">3<font/>7VucYSaXLCAsxYyAPfbSi9eh4iEcbShgf]]></item>
         <item><![CDATA[eg. <font color="#00cdc3">bc1<font/>qcr8te4kr609gcawutmrza0j4xv80jy8z306fyu]]></item>
     </string-array>

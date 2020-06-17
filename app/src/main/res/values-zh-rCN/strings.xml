@@ -430,7 +430,7 @@
     <string-array name="watch_wallet_list">
         <item>Cobo 金库移动端</item>
         <item>Electrum</item>
-        <item>Wasabi Wallet</item>
+        <item>Wasabi Wallet / BTC-Pay</item>
         <item>BlueWallet</item>
         <item>通用钱包</item>
     </string-array>
@@ -440,8 +440,8 @@
         <item>隔离见证原生（P2WPKH）</item>
     </string-array>
     <string-array name="address_format_subtitle">
-        <item><![CDATA[举例：<font color="#00cdc3">3<font/>kgdahdkhghahdgkhaldshg]]></item>
-        <item><![CDATA[举例：<font color="#00cdc3">bc1<font/>akjhdfhkashdhdhsaghlh]]></item>
+        <item><![CDATA[举例：<font color="#00cdc3">3<font/>7VucYSaXLCAsxYyAPfbSi9eh4iEcbShgf]]></item>
+        <item><![CDATA[举例：<font color="#00cdc3">bc1<font/>qcr8te4kr609gcawutmrza0j4xv80jy8z306fyu]]></item>
     </string-array>
 
     <string name="abnormal_tx">异常交易</string>
