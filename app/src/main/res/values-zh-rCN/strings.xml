@@ -430,7 +430,7 @@
     <string-array name="watch_wallet_list">
         <item>Cobo 金库移动端</item>
         <item>Electrum</item>
-        <item>Wasabi Wallet / BTC-Pay</item>
+        <item>Wasabi / BTCPay</item>
         <item>BlueWallet</item>
         <item>通用钱包</item>
     </string-array>
